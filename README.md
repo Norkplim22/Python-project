@@ -1,1 +1,1 @@
-# Python-project
+# Python-project-Sales and operation planning project

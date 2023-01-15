@@ -1,10 +1,9 @@
 ## Description
-
-Sales and operation planning project
+Python projects during data analyst course
 
 ## Details of project
 
-This project uses python to help automatically predict the amount of stocks available based on the quantity sold and forecast the amount required from production to be able to meet planned sales forcast. 
+Projects worked on were creating a mortgage calculator, tip calculator for a restaurant, Caesar Cypher encryption and decryption, a password generator and a sales and operations analyser. The codes were all in python and helped in practicing the pandas and numpy modules. Help to understand how to write function and enhance other basic knowledge in python. 
 
 ## Author
 
